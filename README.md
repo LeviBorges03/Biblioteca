@@ -1,4 +1,4 @@
-# Biblioteca Premium 📚
+# Biblioteca
 
 Bem-vindo ao repositório do projeto **Biblioteca Premium**, uma aplicação web desenvolvida com a arquitetura Model-View-Controller (MVC) utilizando as mais recentes tecnologias do ecossistema .NET.
 
@@ -6,7 +6,7 @@ Este projeto tem como objetivo simular um catálogo de biblioteca clássica, uni
 
 ---
 
-## 🚀 Tecnologias e Ferramentas Utilizadas
+##  Tecnologias e Ferramentas Utilizadas
 
 *   **Backend:** C#, .NET Core 10.0, ASP.NET Core MVC
 *   **Frontend:** HTML5, CSS3, JavaScript (ES6), Bootstrap 5, jQuery
@@ -26,7 +26,7 @@ Antes de iniciar a configuração e execução do projeto, certifique-se de que 
 
 ---
 
-## 🛠️ Como Executar o Projeto Localmente
+##  Como Executar o Projeto Localmente
 
 Siga o passo a passo abaixo para compilar e executar o projeto em seu ambiente de desenvolvimento local:
 
@@ -91,18 +91,14 @@ O terminal começará a compilar e em breve exibirá logs indicando que a aplica
 
 ---
 
-## 📄 Documentação Detalhada
+##  Documentação Detalhada
 
-Para informações aprofundadas sobre arquitetura, decisões técnicas, protótipos visuais e explicações extensivas sobre a fluidez de nossas páginas, consulte o nosso relatório técnico exaustivo.
+Para informações aprofundadas sobre arquitetura, decisões técnicas, protótipos visuais e explicações sobre a fluidez de nossas páginas, consulte o nosso relatório.
 
 O arquivo completo pode ser encontrado na pasta do repositório:
 `documentação/relatorio.txt`
 
-Adicionalmente, na pasta `documentação/prints/`, disponibilizamos capturas de tela automatizadas atestando o funcionamento e a interface completa do sistema.
-
----
-
-## 🤝 Contribuindo
+ Contribuindo: Levi Borges, Leticia Borges, Livia Borges.
 
 Se desejar contribuir com o projeto, fique à vontade para criar um *fork*, abrir *issues* ou enviar *pull requests*. Toda ajuda é muito bem-vinda para aprimorar as funcionalidades deste acervo literário!
 
