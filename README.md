@@ -35,8 +35,8 @@ Siga o passo a passo abaixo para compilar e executar o projeto em seu ambiente d
 Abra o seu terminal ou prompt de comando e execute:
 
 ```bash
-git clone https://github.com/seu-usuario/biblioteca-premium.git
-cd biblioteca-premium
+git clone https://github.com/seu-usuario/biblioteca.git
+cd biblioteca
 ```
 
 *(Se você já possuir os arquivos do projeto localmente, basta navegar até o diretório raiz onde se encontra a pasta `Biblioteca`).*
