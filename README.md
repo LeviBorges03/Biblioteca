@@ -1,6 +1,6 @@
 # Biblioteca
 
-Bem-vindo ao repositório do projeto **Biblioteca Premium**, uma aplicação web desenvolvida com a arquitetura Model-View-Controller (MVC) utilizando as mais recentes tecnologias do ecossistema .NET.
+Bem-vindo ao repositório do projeto **Biblioteca**, uma aplicação web desenvolvida com a arquitetura Model-View-Controller (MVC) utilizando as mais recentes tecnologias do ecossistema .NET.
 
 Este projeto tem como objetivo simular um catálogo de biblioteca clássica, unindo o poder do backend em C# com a dinamicidade e a fluidez de uma Single Page Application (SPA) no lado do cliente (via JavaScript e LocalStorage).
 
@@ -99,8 +99,3 @@ O arquivo completo pode ser encontrado na pasta do repositório:
 `documentação/relatorio.txt`
 
  Contribuindo: Levi Borges, Leticia Borges, Livia Borges.
-
-Se desejar contribuir com o projeto, fique à vontade para criar um *fork*, abrir *issues* ou enviar *pull requests*. Toda ajuda é muito bem-vinda para aprimorar as funcionalidades deste acervo literário!
-
----
-*Desenvolvido com dedicação para a gestão de acervos literários. &copy; 2026*
